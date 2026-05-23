@@ -1,0 +1,48 @@
+services:
+  # Servicio 1: Passbolt (Gestor de contraseñas)
+  passbolt:
+    image: passbolt/passbolt:latest-ce
+    container_name: passbolt-service
+    environment:
+      - APP_FULL_BASE_URL=http://localhost:8080
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+    networks:
+      - red-servicios
+
+  # Servicio 2: ChkMonitor (Servicio web secundario a monitorear)
+  chkmonitor:
+    image: nginx:alpine
+    container_name: chkmonitor-service
+    ports:
+      - "8081:80"
+    restart: unless-stopped
+    networks:
+      - red-servicios
+
+  # El Agente SNMP que expone las métricas de los contenedores hacia el exterior
+  # El Agente SNMP Real con acceso al Kernel de Linux
+  snmp_agent:
+    image: ubuntu:22.04
+    container_name: snmp-agent
+    privileged: true
+    pid: "host" # Permite al contenedor ver los procesos reales de Passbolt y ChkMonitor
+    ports:
+      - "161:161/udp"
+    volumes:
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+    command: >
+      bash -c "apt-get update && apt-get install -y snmpd &&
+      echo 'rocommunity comunidad_privada' > /etc/snmp/snmpd.conf &&
+      echo 'agentaddress udp:161' >> /etc/snmp/snmpd.conf &&
+      service snmpd restart &&
+      tail -f /dev/null"
+    restart: unless-stopped
+    networks:
+      - red-servicios
+
+networks:
+  red-servicios:
+    driver: bridge
