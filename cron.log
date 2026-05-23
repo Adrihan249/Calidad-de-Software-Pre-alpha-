@@ -1,0 +1,244 @@
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+/bin/sh: 1: /home/alumno/dashboard-monitoreo/colector.sh: Permission denied
+[vie 22 may 2026 05:00:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+--------------
+INSERT INTO historial_metricas (servicio, uso_cpu, uso_ram) VALUES ('Passbolt', 0.5, 28.00)
+--------------
+
+ERROR 1047 (08S01) at line 1: WSREP has not yet prepared node for application use
+--------------
+INSERT INTO historial_metricas (servicio, uso_cpu, uso_ram) VALUES ('ChkMonitor', 0.1, 7.00)
+--------------
+
+ERROR 1047 (08S01) at line 1: WSREP has not yet prepared node for application use
+[vie 22 may 2026 05:01:03 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[vie 22 may 2026 05:02:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[vie 22 may 2026 05:03:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[vie 22 may 2026 05:04:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[vie 22 may 2026 05:05:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:08:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:09:03 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:10:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:11:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:12:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:13:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:14:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:15:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:16:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:17:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:18:03 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:19:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:20:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:21:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:22:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:23:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:24:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:25:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:26:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:27:03 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:28:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:29:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:30:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:31:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:32:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:33:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:34:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:35:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:36:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:37:03 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:38:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:39:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:40:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:41:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:42:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:43:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:44:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:45:03 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:46:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:47:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:48:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:49:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:50:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:51:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:52:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:53:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:54:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:55:03 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:56:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:57:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:58:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 04:59:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:00:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:01:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:02:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:03:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:04:03 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:05:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:06:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:07:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:08:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:09:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:10:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:11:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:12:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:13:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:14:03 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:15:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:16:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:17:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:18:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:19:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:20:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:21:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:22:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:23:03 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:24:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:25:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:26:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:27:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:28:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:29:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:30:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:31:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:32:03 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:33:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:34:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:35:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:36:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:37:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:38:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:39:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:40:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:41:03 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:42:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:43:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:44:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:45:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:46:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:47:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:48:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:49:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+[sáb 23 may 2026 05:50:02 UTC] Sincronización exitosa. Métricas 100% REALES guardadas en Galera.
+Host key verification failed.
+Connection timed out during banner exchange
+Connection to 192.168.18.25 port 22 timed out
+[sáb 23 may 2026 05:51:17 UTC] Datos 100% reales sincronizados: CPU Total del Servidor es 6%
+Connection timed out during banner exchange
+Connection to 192.168.18.25 port 22 timed out
+Connection timed out during banner exchange
+Connection to 192.168.18.25 port 22 timed out
+[sáb 23 may 2026 05:52:25 UTC] Datos 100% reales sincronizados: CPU Total del Servidor es 5%
+Connection timed out during banner exchange
+Connection to 192.168.18.25 port 22 timed out
+Connection timed out during banner exchange
+Connection to 192.168.18.25 port 22 timed out
+[sáb 23 may 2026 05:53:19 UTC] Datos 100% reales sincronizados: CPU Total del Servidor es 5%
+Permission denied, please try again.
+Permission denied, please try again.
+alumno@192.168.18.25: Permission denied (publickey,password).
+Permission denied, please try again.
+Permission denied, please try again.
+alumno@192.168.18.25: Permission denied (publickey,password).
+[sáb 23 may 2026 05:54:02 UTC] Datos 100% reales sincronizados: CPU Total del Servidor es 9%
+Permission denied, please try again.
+Permission denied, please try again.
+alumno@192.168.18.25: Permission denied (publickey,password).
+Permission denied, please try again.
+Permission denied, please try again.
+alumno@192.168.18.25: Permission denied (publickey,password).
+[sáb 23 may 2026 05:55:01 UTC] Datos 100% reales sincronizados: CPU Total del Servidor es 1%
+Permission denied, please try again.
+Permission denied, please try again.
+alumno@192.168.18.25: Permission denied (publickey,password).
+Permission denied, please try again.
+Permission denied, please try again.
+alumno@192.168.18.25: Permission denied (publickey,password).
+[sáb 23 may 2026 05:56:01 UTC] Datos 100% reales sincronizados: CPU Total del Servidor es 1%
+Permission denied, please try again.
+Permission denied, please try again.
+alumno@192.168.18.25: Permission denied (publickey,password).
+Permission denied, please try again.
+Permission denied, please try again.
+alumno@192.168.18.25: Permission denied (publickey,password).
+[sáb 23 may 2026 05:57:02 UTC] Datos 100% reales sincronizados: CPU Total del Servidor es 2%
+Permission denied, please try again.
+Permission denied, please try again.
+alumno@192.168.18.25: Permission denied (publickey,password).
+Permission denied, please try again.
+Permission denied, please try again.
+alumno@192.168.18.25: Permission denied (publickey,password).
+[sáb 23 may 2026 05:58:01 UTC] Datos 100% reales sincronizados: CPU Total del Servidor es 1%
+Connection timed out during banner exchange
+Connection to 192.168.18.25 port 22 timed out
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+Permission denied, please try again.
+alumno@192.168.18.25: Permission denied (publickey,password).
+alumno@192.168.18.25: Permission denied (publickey,password).
+[sáb 23 may 2026 06:00:04 UTC] Datos 100% reales sincronizados: CPU Total del Servidor es 3%
+Permission denied, please try again.
+Permission denied, please try again.
+alumno@192.168.18.25: Permission denied (publickey,password).
+[sáb 23 may 2026 06:00:05 UTC] Datos 100% reales sincronizados: CPU Total del Servidor es 3%
+[sáb 23 may 2026 06:01:01 UTC] Sincronización SNMP Real Completada. CPU Host: 1% | RAM Host: 47%
+[sáb 23 may 2026 06:02:01 UTC] Sincronización SNMP Real Completada. CPU Host: 1% | RAM Host: 47%
+[sáb 23 may 2026 06:03:02 UTC] Polling SNMP Real. CPU Host monitoreado (.25): 2% | RAM: 47%
+[sáb 23 may 2026 06:04:02 UTC] Polling SNMP Real. CPU Host monitoreado (.25): 2% | RAM: 47%
+[sáb 23 may 2026 06:05:02 UTC] Polling SNMP Real. CPU Host monitoreado (.25): 2% | RAM: 47%
+[sáb 23 may 2026 06:06:02 UTC] Polling SNMP Real. CPU Host monitoreado (.25): 2% | RAM: 47%
+[sáb 23 may 2026 06:07:02 UTC] Telemetría del Sistema. CPU Real: 2% | RAM Real: 14%
+[sáb 23 may 2026 06:08:01 UTC] Telemetría del Sistema. CPU Real: 2% | RAM Real: 14%
+[sáb 23 may 2026 06:09:01 UTC] Telemetría del Sistema. CPU Real: 100% | RAM Real: 14%
+[sáb 23 may 2026 06:10:01 UTC] Telemetría del Sistema. CPU Real: 100% | RAM Real: 14%
+[sáb 23 may 2026 06:11:01 UTC] Telemetría del Sistema. CPU Real: 2% | RAM Real: 14%
+[sáb 23 may 2026 06:12:03 UTC] Telemetría Suavizada Real. CPU: 3% | RAM: 14%
+[sáb 23 may 2026 06:13:02 UTC] Telemetría Suavizada Real. CPU: 4% | RAM: 15%
+[sáb 23 may 2026 06:14:02 UTC] Telemetría Suavizada Real. CPU: 8% | RAM: 14%
+[sáb 23 may 2026 06:15:01 UTC] Telemetría de Kernel Real. CPU Sistema: 3% | RAM Sistema: 14%
+[sáb 23 may 2026 06:16:01 UTC] Telemetría de Kernel Real. CPU Sistema: 3% | RAM Sistema: 14%
+[sáb 23 may 2026 06:17:01 UTC] Telemetría de Kernel Real. CPU Sistema: 3% | RAM Sistema: 14%
+[sáb 23 may 2026 06:18:01 UTC] Telemetría de Kernel Real. CPU Sistema: 3% | RAM Sistema: 14%
+ssh: connect to host 192.168.1.25 port 22: Connection timed out
+[sáb 23 may 2026 06:19:06 UTC] ERROR: No se pudo conectar a 192.168.1.25. Abortando inserción.
+ssh: connect to host 192.168.1.25 port 22: Connection timed out
+[sáb 23 may 2026 06:20:06 UTC] ERROR: No se pudo conectar a 192.168.1.25. Abortando inserción.
+ssh: connect to host 192.168.1.25 port 22: Connection timed out
+[sáb 23 may 2026 06:21:06 UTC] ERROR: No se pudo conectar a 192.168.1.25. Abortando inserción.
+ssh: connect to host 192.168.1.25 port 22: Connection timed out
+[sáb 23 may 2026 06:22:06 UTC] ERROR: No se pudo conectar a 192.168.1.25. Abortando inserción.
+[sáb 23 may 2026 06:23:02 UTC] Telemetría Real de Hardware | CPU: 7% | RAM: 14%
+[sáb 23 may 2026 06:24:02 UTC] Telemetría Real de Hardware | CPU: 0% | RAM: 14%
+[sáb 23 may 2026 06:25:01 UTC] Telemetría Dinámica | CPU Sistema: 88% | RAM: 14%
+[sáb 23 may 2026 06:26:01 UTC] Telemetría Dinámica | CPU Sistema: 97% | RAM: 14%
+[sáb 23 may 2026 06:27:01 UTC] Telemetría Dinámica | CPU Sistema: 93% | RAM: 14%
+[sáb 23 may 2026 06:28:02 UTC] Telemetría Dinámica | CPU Sistema: 93% | RAM: 14%
+[sáb 23 may 2026 06:29:01 UTC] Telemetría Dinámica | CPU Sistema: 96% | RAM: 14%
+ERROR 2002 (HY000): Can't connect to local server through socket '/run/mysqld/mysqld.sock' (111)
+ERROR 2002 (HY000): Can't connect to local server through socket '/run/mysqld/mysqld.sock' (111)
+[sáb 23 may 2026 06:46:01 UTC] Telemetría Dinámica | CPU Sistema: 3% | RAM: 10%
+ERROR 2002 (HY000): Can't connect to local server through socket '/run/mysqld/mysqld.sock' (111)
+ERROR 2002 (HY000): Can't connect to local server through socket '/run/mysqld/mysqld.sock' (111)
+[sáb 23 may 2026 06:47:01 UTC] Telemetría Dinámica | CPU Sistema: 3% | RAM: 11%
+ERROR 2002 (HY000): Can't connect to local server through socket '/run/mysqld/mysqld.sock' (111)
+ERROR 2002 (HY000): Can't connect to local server through socket '/run/mysqld/mysqld.sock' (111)
+[sáb 23 may 2026 06:48:01 UTC] Telemetría Dinámica | CPU Sistema: 3% | RAM: 11%
+ERROR 2002 (HY000): Can't connect to local server through socket '/run/mysqld/mysqld.sock' (111)
+ERROR 2002 (HY000): Can't connect to local server through socket '/run/mysqld/mysqld.sock' (111)
+[sáb 23 may 2026 06:51:01 UTC] Telemetría Dinámica | CPU Sistema: 4% | RAM: 11%
